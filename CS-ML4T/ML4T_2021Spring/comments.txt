@@ -1,0 +1,61 @@
+<pre>--- Summary ---
+Tests passed: 0 out of 8
+
+--- Details ---
+Test #0: failed 
+Test case description: Wiki example 1
+Traceback:
+  File "optimization.py", line 106, in optimize_portfolio
+    dates)  # automatically adds SPY
+IOError: [Errno 2] File ../data/SPY.csv does not exist: '../data/SPY.csv'
+
+Test #1: failed 
+Test case description: Wiki example 2
+Traceback:
+  File "optimization.py", line 106, in optimize_portfolio
+    dates)  # automatically adds SPY
+IOError: [Errno 2] File ../data/SPY.csv does not exist: '../data/SPY.csv'
+
+Test #2: failed 
+Test case description: Wiki example 3
+Traceback:
+  File "optimization.py", line 106, in optimize_portfolio
+    dates)  # automatically adds SPY
+IOError: [Errno 2] File ../data/SPY.csv does not exist: '../data/SPY.csv'
+
+Test #3: failed 
+Test case description: Wiki example 4
+Traceback:
+  File "optimization.py", line 106, in optimize_portfolio
+    dates)  # automatically adds SPY
+IOError: [Errno 2] File ../data/SPY.csv does not exist: '../data/SPY.csv'
+
+Test #4: failed 
+Test case description: MSFT vs HPQ
+Traceback:
+  File "optimization.py", line 106, in optimize_portfolio
+    dates)  # automatically adds SPY
+IOError: [Errno 2] File ../data/SPY.csv does not exist: '../data/SPY.csv'
+
+Test #5: failed 
+Test case description: MSFT vs AAPL
+Traceback:
+  File "optimization.py", line 106, in optimize_portfolio
+    dates)  # automatically adds SPY
+IOError: [Errno 2] File ../data/SPY.csv does not exist: '../data/SPY.csv'
+
+Test #6: failed 
+Test case description: Wiki example 1 in 2011
+Traceback:
+  File "optimization.py", line 106, in optimize_portfolio
+    dates)  # automatically adds SPY
+IOError: [Errno 2] File ../data/SPY.csv does not exist: '../data/SPY.csv'
+
+Test #7: failed 
+Test case description: Year of the HNZ
+Traceback:
+  File "optimization.py", line 106, in optimize_portfolio
+    dates)  # automatically adds SPY
+IOError: [Errno 2] File ../data/SPY.csv does not exist: '../data/SPY.csv'
+
+</pre>
