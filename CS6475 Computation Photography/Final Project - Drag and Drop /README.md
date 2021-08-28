@@ -4,7 +4,6 @@ CODE USAGE GUIDELINES
 SCOPE :
 A user-friendly system for seamless image composition, which we call drag-and-drop pasting. For Poisson image editing [Perez et al. 2003] to work well, the user must carefully draw a boundary on the source image to indicate the region of interest, such that salient structures in source and target images do not conflict with each other along the boundary. To make Poisson image editing more practical and easy to use, it implements a new objective function to compute an optimized boundary condition. A shortest closed-path algorithm is designed to search for the location of the boundary which will preserve the salient features of both the images.
 
-GTBOX : https://gatech.box.com/s/98fiygrk0u9tb753qoegadn95eygm16b
 
 INDEX:
 
